@@ -1,8 +1,5 @@
 
 ## Resume App
-This full stack app is basically meant to be used as a portfolio. With a simple change in the frontend code, you can enable a login button that when logged, grants the user the ability to add projects to the home page.  
-
-
 
 ## Installation
 ### Node:
